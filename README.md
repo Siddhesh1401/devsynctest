@@ -2,5 +2,4 @@
 d
 nh
  j
-n
-u
+i
